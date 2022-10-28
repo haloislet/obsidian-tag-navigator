@@ -2,9 +2,8 @@
   "id": "tag-navigator",
   "name": "Tag Navigator",
   "description": "Cross-reference navigation through your tags",
-  "version": "0.5.0",
-  "author": "Alexander Obenauer",
-  "authorUrl": "https://alexanderobenauer.com",
+  "version": "0.6.0",
+  "author": "Halo Islet",
   "isDesktopOnly": false,
   "minAppVersion": "0.12.12"
 }
