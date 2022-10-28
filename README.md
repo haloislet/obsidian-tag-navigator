@@ -1,5 +1,7 @@
 # Tag Navigator (plugin for Obsidian)
 
+![https://tuchuangs.com/imgs/2022/10/28/7102c0cea1ed7a86.jpg](https://tuchuangs.com/imgs/2022/10/28/7102c0cea1ed7a86.jpg)
+
 *Previously: "Cross-reference Navigation"*
 
 This is a plugin for [Obsidian](https://obsidian.md/) that lets you navigate through your notes using their tags.
@@ -14,7 +16,7 @@ This plugin surfaces commonly cross-referenced tags as you browse through your t
 
 [Here's a video showing it in action &raquo;](https://www.youtube.com/watch?v=sm5HXFNN8jE)
 
-With the tag structure I use in my personal notes vault, this plugin effectively gives me a handful of useful interfaces. Some examples: 
+With the tag structure I use in my personal notes vault, this plugin effectively gives me a handful of useful interfaces. Some examples:
 
 - "In Progress" shows me my current workspace: all of the things I'm learning and working on right now.
 - "Up Next" is filled with new and interesting things to explore.
