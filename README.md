@@ -1,6 +1,5 @@
 # Tag Navigator (plugin for Obsidian)
 
-![](https://i.niupic.com/images/2022/10/28/a9YQ.jpg)
 
 *Previously: "Cross-reference Navigation"*
 
